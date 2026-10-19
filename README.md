@@ -50,6 +50,6 @@ The project uses charts and graphs to make unemployment trends and patterns easi
 
 **Amit Kumar**
 
-B.Tech CSE | Artificial Intelligence(Uiversity Of Lucknow)
+B.Tech CSE | Artificial Intelligence(University Of Lucknow)
 
 GitHub: [amitbhaskar112] (https://github.com/amitbhaskar112)
